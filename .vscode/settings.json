@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "rtc_app.h": "c",
+        "onewire_app.h": "c",
+        "debug.h": "c",
+        "data.h": "c"
+    }
+}
